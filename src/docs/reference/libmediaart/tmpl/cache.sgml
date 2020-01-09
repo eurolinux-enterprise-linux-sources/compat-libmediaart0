@@ -1,0 +1,71 @@
+<!-- ##### SECTION Title ##### -->
+cache
+
+<!-- ##### SECTION Short_Description ##### -->
+
+
+<!-- ##### SECTION Long_Description ##### -->
+<para>
+
+</para>
+
+
+<!-- ##### SECTION See_Also ##### -->
+<para>
+
+</para>
+
+
+<!-- ##### SECTION Stability_Level ##### -->
+
+
+<!-- ##### SECTION Image ##### -->
+
+
+<!-- ##### FUNCTION media_art_get_path ##### -->
+<para>
+
+</para>
+
+@artist: 
+@title: 
+@prefix: 
+@uri: 
+@cache_path: 
+@local_uri: 
+@Returns: 
+
+
+<!-- ##### FUNCTION media_art_get_file ##### -->
+<para>
+
+</para>
+
+@artist: 
+@title: 
+@prefix: 
+@file: 
+@cache_file: 
+@local_file: 
+@Returns: 
+
+
+<!-- ##### FUNCTION media_art_remove ##### -->
+<para>
+
+</para>
+
+@artist: 
+@album: 
+@Returns: 
+
+
+<!-- ##### FUNCTION media_art_strip_invalid_entities ##### -->
+<para>
+
+</para>
+
+@original: 
+@Returns: 
+
+
